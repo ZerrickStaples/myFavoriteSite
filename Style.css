@@ -1,0 +1,31 @@
+﻿body {
+    
+}
+
+nav#navvy.navbar.navbar-static-top{
+    margin-top:0px;
+    margin-bottom:0px;
+    color:#ffffff;
+    background-color:#ffffff;
+}
+#navvy a{
+    color:#000000;
+}
+#navvy a:hover{
+    background:none;
+}
+
+button.navbar-toggle{
+    border:1px solid #ffffff;
+}
+span.icon-bar{
+    border:1px solid #ffffff;
+}
+#jasmine{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+#stalker{
+    margin-top:0px;
+    margin-bottom:0px;
+}
